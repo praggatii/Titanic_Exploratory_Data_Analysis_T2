@@ -6,7 +6,7 @@ This project focuses on conducting data cleaning and exploratory data analysis (
 
 The datasets is obtained from Kaggle: [Titanic](https://www.kaggle.com/c/titanic/data)   
  
-The dataset contains 891 rows (entries) and 12 columns    
+The dataset contains 891 rows (entries) and 12 columns.   
 The columns are:       
 
 ``PassengerId``: Unique identifier for each passenger.    
